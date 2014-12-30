@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="14．IMF贷款对象是会员国的(2008.1)" answer="中央银行" note="">
+<choice>国营企业</choice>
+<choice>私人企业</choice>
+<choice>教育机构</choice>
+<choice>中央银行</choice>
+</question>
+<question title="15．亚洲开发银行对某一开发项目的共同融资是指(2008.1)" answer="亚行与融资伙伴按商定比例进行融资" note="">
+<choice>亚行与融资伙伴按商定比例进行融资</choice>
+<choice>将项目分成若干具体和独立部分分别融资</choice>
+<choice>融资伙伴通过亚行对某一项目进行融资</choice>
+<choice>商业银行购买亚行到期的贷款</choice>
+</question>
+<question title="10.以促进成员国之间的国际货币合作为宗旨的国际金融机构是(2009.1)" answer="IMF" note="">
+<choice>IMF</choice>
+<choice>IBRD</choice>
+<choice>IDA</choice>
+<choice>IFC</choice>
+</question>
+<question title="11.世界银行的资金约70％来源于(2009.1)" answer="借款" note="">
+<choice>股本资金</choice>
+<choice>借款</choice>
+<choice>债权转让</choice>
+<choice>留存业务净收益</choice>
+</question>
+<question title="9.贷款方式采用“购买”和“购回”的国际金融机构是(2009.10)" answer="IMF" note="">
+<choice>IMF</choice>
+<choice>IBRD</choice>
+<choice>IFC</choice>
+<choice>IDA</choice>
+</question>
+<question title="9.IMF分配的特别提款权取决于会员国的(2010.1)" answer="份额" note="">
+<choice>国民收入</choice>
+<choice>贸易总额</choice>
+<choice>投票权</choice>
+<choice>份额</choice>
+</question>
+<question title="10.加入世界银行的会员国必须是(2010.1)" answer="国际货币基金组织会员国" note="">
+<choice>国际清算银行会员国</choice>
+<choice>国际货币基金组织会员国</choice>
+<choice>世界贸易组织会员国</choice>
+<choice>经济合作与发展组织会员国</choice>
+</question>
+<question title="6.IMF成员国申请储备部分的贷款是(2010.10)" answer="无条件的，可自动提用，不支付利息" note="">
+<choice>无条件的，需特别批准，不支付利息</choice>
+<choice>无条件的，可自动提用，不支付利息</choice>
+<choice>无条件的，需特别批准，支付利息</choice>
+<choice>无条件的，可自动提用，支付利息</choice>
+</question>
+<question title="12.世界银行贷款的主要组成部分是(2011.1)" answer="项目贷款" note="">
+<choice>普通贷款</choice>
+<choice>项目贷款</choice>
+<choice>扩展贷款</choice>
+<choice>第三窗口贷款</choice>
+</question>
+<question title="10．要求成员国取消经常项目下的货币兑换限制的国际金融机构是(2008.10)" answer="IMF" note="">
+<choice>BIS</choice>
+<choice>IMF</choice>
+<choice>IBRD</choice>
+<choice>IDA</choice>
+</question>
+<question title="11．世界银行集团包括(2008.10)" answer="IBRD+IDA+IFC" note="">
+<choice>IBRD+IMF+IFC</choice>
+<choice>IBRD+IDA+BIS</choice>
+<choice>IBRD+IDA+IFC</choice>
+<choice>IBRD+BIS+IFC</choice>
+</question>
+</root>

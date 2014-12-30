@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question title="4．某银行报出即期汇率美元／瑞士法郎1.6030—1.6040，3个月远期差价120—130，则远期汇率为(2008.1)" answer="1.7230—1.7340" note="">
+<choice>1.4740—1.4830</choice>
+<choice>1.5910—1.6910</choice>
+<choice>1.6150—1.6170</choice>
+<choice>1.7230—1.7340</choice>
+</question>
+<question title="5.在香港外汇市场上，中国银行报出美元与港元即期汇率：USD1=HKD7.8420—7.8460，1个月掉期率：70—50，则美元兑1个月远期港元的实际汇率为(2008.10)" answer="7.8350—7.8410" note="">
+<choice>7.1420—7.3460</choice>
+<choice>7.8350—7.8410</choice>
+<choice>7.8490—7.8510</choice>
+<choice>8.5420—8.3460</choice>
+</question>
+<question title="6．接本试卷第5小题，美元或港元1个月远期汇率的变动趋势为(2008.10)" answer="港元对美元升水" note="">
+<choice>港元对美元升水</choice>
+<choice>美元对港元升水</choice>
+<choice>港元对美元贴水</choice>
+<choice>本币对外币贴水</choice>
+</question>
+<question title="5.在巴黎外汇市场上，法国银行公布欧元与美元即期汇率为UERl =USDl.5620—1.5640,2个月掉期率110—150，则欧元对美元2个月远期的实际汇率是(2009.1)" answer="1.5730—1.5790" note="">
+<choice>1.4520—1.4140</choice>
+<choice>1.5510—1.5490</choice>
+<choice>1.5730—1.5790</choice>
+<choice>1.6720—1.7140</choice>
+</question>
+<question title="5.在直接标价法下，外汇汇率上升表示为(2009.10)" answer="外币数额不变，本币数额增加" note="">
+<choice>本币数额不变，外币数额增加</choice>
+<choice>外币数额不变，本币数额增加</choice>
+<choice>本币数额不变，外币数额减少</choice>
+<choice>外币数额不变，本币数额减少</choice>
+</question>
+<question title="6.德意志银行悉尼分行向花旗银行香港分行报出汇价：1欧元=0.7915－0.7965英镑，该汇率表示(2009.10)" answer="花旗银行香港分行支付0.7965英镑买入1欧元" note="">
+<choice>德意志银行悉尼分行支付0.7965英镑买入1欧元</choice>
+<choice>花旗银行香港分行支付0.7965英镑买入1欧元</choice>
+<choice>德意志银行悉尼分行卖出1欧元收入0.7915英镑</choice>
+<choice>花旗银行香港分行卖出1欧元收入0.7965英镑</choice>
+</question>
+<question title="6.在间接标价法下，外汇汇率上升表示为(2010.1)" answer="本币数额不变，外币数额减少" note="">
+<choice>本币数额不变，外币数额增加</choice>
+<choice>外币数额不变，本币数额增加</choice>
+<choice>本币数额不变，外币数额减少</choice>
+<choice>外币数额不变，本币数额减少</choice>
+</question>
+<question title="7.中国银行向招商银行报出美元与人民币即期汇率：100美元=人民币683.57—685.57元。该汇率表明(2010.1)" answer="中国银行卖出100美元收入人民币685.57元" note="">
+<choice>中国银行支付人民币685.57元买入100美元</choice>
+<choice>招商银行支付人民币683.57元买入100美元</choice>
+<choice>中国银行卖出100美元收入人民币685.57元</choice>
+<choice>招商银行卖出100美元收入人民币685.57元</choice>
+</question>
+<question title="11.在直接标价法下，以点数表示的掉期率由小到大表示(2010.10)" answer="升水" note="">
+<choice>升水</choice>
+<choice>贴水</choice>
+<choice>平价</choice>
+<choice>现汇价</choice>
+</question>
+<question title="10.掉期率报价法是(2010.10)" answer="远期外汇交易的报价法" note="">
+<choice>即期外汇交易的报价法</choice>
+<choice>远期外汇交易的报价法</choice>
+<choice>外汇期货交易的报价法</choice>
+<choice>外汇期权交易的报价法</choice>
+</question>
+</root>

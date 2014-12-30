@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<question>
+<text tag="question" value="24．掉期交易(2009.1)"/>
+<text tag="answer" value="掉期交易是指外汇交易者在买进一种交割期限外汇的同时，卖出另一种交割期限的该种外汇。或反之。按交割期限的差异，掉期可分为一日掉期、即期对远期掉期和远期对远期掉期。"/>
+</question>
+<question>
+<text tag="question" value="24．利息套汇(2008.10)"/>
+<text tag="answer" value="套利又称利息套汇，是指套利者利用两个不同金融市场上短期资金存贷利差与远期掉期率之间的不一致进行谋利性质的资金转移，从中谋取利率差或汇率差利润过程中派生出来的外汇交易。"/>
+</question>
+</root>
