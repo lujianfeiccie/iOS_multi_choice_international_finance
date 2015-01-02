@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-<question title="4．某银行报出即期汇率美元／瑞士法郎1.6030—1.6040，3个月远期差价120—130，则远期汇率为(2008.1)" answer="1.7230—1.7340" note="">
-<choice>1.4740—1.4830</choice>
-<choice>1.5910—1.6910</choice>
-<choice>1.6150—1.6170</choice>
-<choice>1.7230—1.7340</choice>
+<question title="4．某银行报出即期汇率美元／瑞士法郎1.6030—1.6040，3个月远期差价120—130，则远期汇率为(2008.1)" answer="１.7230—1.7340" note="">
+<choice>１.4740—1.4830</choice>
+<choice>１.5910—1.6910</choice>
+<choice>１.6150—1.6170</choice>
+<choice>１.7230—1.7340</choice>
 </question>
-<question title="5.在香港外汇市场上，中国银行报出美元与港元即期汇率：USD1=HKD7.8420—7.8460，1个月掉期率：70—50，则美元兑1个月远期港元的实际汇率为(2008.10)" answer="7.8350—7.8410" note="">
-<choice>7.1420—7.3460</choice>
-<choice>7.8350—7.8410</choice>
-<choice>7.8490—7.8510</choice>
-<choice>8.5420—8.3460</choice>
+<question title="5.在香港外汇市场上，中国银行报出美元与港元即期汇率：USD1=HKD7.8420—7.8460，1个月掉期率：70—50，则美元兑1个月远期港元的实际汇率为(2008.10)" answer="７.8350—7.8410" note="">
+<choice>７.1420—7.3460</choice>
+<choice>７.8350—7.8410</choice>
+<choice>７.8490—7.8510</choice>
+<choice>８.5420—8.3460</choice>
 </question>
 <question title="6．接本试卷第5小题，美元或港元1个月远期汇率的变动趋势为(2008.10)" answer="港元对美元升水" note="">
 <choice>港元对美元升水</choice>
@@ -18,11 +18,11 @@
 <choice>港元对美元贴水</choice>
 <choice>本币对外币贴水</choice>
 </question>
-<question title="5.在巴黎外汇市场上，法国银行公布欧元与美元即期汇率为UERl =USDl.5620—1.5640,2个月掉期率110—150，则欧元对美元2个月远期的实际汇率是(2009.1)" answer="1.5730—1.5790" note="">
-<choice>1.4520—1.4140</choice>
-<choice>1.5510—1.5490</choice>
-<choice>1.5730—1.5790</choice>
-<choice>1.6720—1.7140</choice>
+<question title="5.在巴黎外汇市场上，法国银行公布欧元与美元即期汇率为UERl =USDl.5620—1.5640,2个月掉期率110—150，则欧元对美元2个月远期的实际汇率是(2009.1)" answer="１.5730—1.5790" note="">
+<choice>１.4520—1.4140</choice>
+<choice>１.5510—1.5490</choice>
+<choice>１.5730—1.5790</choice>
+<choice>１.6720—1.7140</choice>
 </question>
 <question title="5.在直接标价法下，外汇汇率上升表示为(2009.10)" answer="外币数额不变，本币数额增加" note="">
 <choice>本币数额不变，外币数额增加</choice>

@@ -68,9 +68,7 @@
     model.m_type = TYPE_MULTI_CHOICE;
     [m_datalist addObject:model];
     
-    [m_tableview_list setFrame:CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width,[UIScreen mainScreen].bounds.size.height-self.navigationController.navigationBar.frame.size.height)];
-
-  
+    
     self.navigationItem.leftBarButtonItem = [ButtonUtil createToolBarButton:@"本地搜索" target:self action:@selector(toolBarLeft)];
     self.navigationItem.rightBarButtonItem = [ButtonUtil createToolBarButton:@"关于" target:self action:@selector(toolBarRight)];
     
@@ -98,7 +96,10 @@
 {
     [super viewDidLayoutSubviews];
   //  NSLog(@"viewDidLayoutSubviews");
+    [m_tableview_list setFrame:CGRectMake(0, 0, [UIScreen mainScreen
+                                                 ].applicationFrame.size.width,[UIScreen mainScreen].applicationFrame.size.height-self.navigationController.navigationBar.frame.size.height)];
     
+
 }
 
 - (void)didReceiveMemoryWarning

@@ -12,11 +12,11 @@
 <choice>贸易问题</choice>
 <choice>投资问题</choice>
 </question>
-<question title="3．按照IMF的规定，会员国可用本国货币认缴份额的比例为" answer="75%" note="">
-<choice>60%</choice>
-<choice>65%</choice>
-<choice>70%</choice>
-<choice>75%</choice>
+<question title="3．按照IMF的规定，会员国可用本国货币认缴份额的比例为" answer="７５%" note="">
+<choice>６０%</choice>
+<choice>６５%</choice>
+<choice>７０%</choice>
+<choice>７５%</choice>
 </question>
 <question title="4．购买力平价理论有助于说明" answer="通货膨胀与汇率的关系" note="">
 <choice>国际收支与汇率的关系</choice>
@@ -36,11 +36,11 @@
 <choice>金汇兑本位制</choice>
 <choice>布雷顿森林体系</choice>
 </question>
-<question title="7．《稳定和增长公约》规定欧元成员国每年的财政赤字不能突破其GDP的" answer="3%" note="">
-<choice>3%</choice>
-<choice>5%</choice>
-<choice>8%</choice>
-<choice>10%</choice>
+<question title="7．《稳定和增长公约》规定欧元成员国每年的财政赤字不能突破其GDP的" answer="３%" note="">
+<choice>３%</choice>
+<choice>５%</choice>
+<choice>８%</choice>
+<choice>１０%</choice>
 </question>
 <question title="8．美元与人民币汇率由1美元=6.6689人民币变为1美元=6.3649人民币时，说明" answer="美元汇率下跌，人民币汇率上升" note="">
 <choice>美元汇率上升，人民币汇率上升</choice>
@@ -48,11 +48,11 @@
 <choice>美元汇率上升，人民币汇率下跌</choice>
 <choice>美元汇率下跌，人民币汇率上升</choice>
 </question>
-<question title="9．自2012年4月16日起，人民币与美元汇率的浮动幅度扩大至" answer="1%" note="">
-<choice>0.5%</choice>
-<choice>1%</choice>
-<choice>5%</choice>
-<choice>10%</choice>
+<question title="9．自2012年4月16日起，人民币与美元汇率的浮动幅度扩大至" answer="１%" note="">
+<choice>０.5%</choice>
+<choice>１%</choice>
+<choice>５%</choice>
+<choice>１０%</choice>
 </question>
 <question title="10．世界银行集团的主要宗旨是" answer="促进成员国资源开发与项目投资" note="">
 <choice>促进成员国货币合作</choice>
@@ -72,11 +72,11 @@
 <choice>经营性租赁</choice>
 <choice>融资租赁</choice>
 </question>
-<question title="13．假定美元与港元即期汇率为1美元=7.7550～7.7560港元，3个月远期差价10～30港分，那么3个月远期汇率是" answer="1美元=7.6550～7.4560港元" note="">
-<choice>1美元=7.6550～7.4560港元</choice>
-<choice>1美元=7.7540～7.7530港元</choice>
-<choice>1美元=7.7560～7.7590港元</choice>
-<choice>1美元=7.8550～8.0560港元</choice>
+<question title="13．假定美元与港元即期汇率为1美元=7.7550～7.7560港元，3个月远期差价10～30港分，那么3个月远期汇率是" answer="１美元=7.6550～7.4560港元" note="">
+<choice>１美元=7.6550～7.4560港元</choice>
+<choice>１美元=7.7540～7.7530港元</choice>
+<choice>１美元=7.7560～7.7590港元</choice>
+<choice>１美元=7.8550～8.0560港元</choice>
 </question>
 <question title="14．衍生金融市场问世的标志是" answer="美国最先推出的外汇类期货合约" note="">
 <choice>美国最先推出的外汇类期货合约</choice>
@@ -90,11 +90,11 @@
 <choice>国际租赁市场</choice>
 <choice>国际股票市场</choice>
 </question>
-<question title="16．在固定汇率制下实施扩张性财政政策具有产出放大效应，因为" answer="IS曲线和LM曲线向右移动" note="">
-<choice>IS曲线和LM曲线向右移动</choice>
-<choice>IS曲线和LM曲线向左移动</choice>
-<choice>IS曲线和LM曲线向上移动</choice>
-<choice>IS曲线和LM曲线向下移动</choice>
+<question title="16．在固定汇率制下实施扩张性财政政策具有产出放大效应，因为" answer="ＩS曲线和LM曲线向右移动" note="">
+<choice>ＩS曲线和LM曲线向右移动</choice>
+<choice>ＩS曲线和LM曲线向左移动</choice>
+<choice>ＩS曲线和LM曲线向上移动</choice>
+<choice>ＩS曲线和LM曲线向下移动</choice>
 </question>
 <question title="17．在资本和金融账户严格管制条件下，BP曲线为" answer="垂直曲线" note="">
 <choice>水平曲线</choice>

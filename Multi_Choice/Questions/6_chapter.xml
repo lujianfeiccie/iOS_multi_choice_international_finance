@@ -42,11 +42,11 @@
 <choice>美元、英磅、欧元、港元</choice>
 <choice>美元、英磅、欧元、澳元</choice>
 </question>
-<question title="8.国际商业银行贷款的利息及费用包括(2009.1)" answer="LIBOR+附加利息+管理费+代理费+承担费+律师费和通讯费等杂费" note="">
-<choice>LIBOR+附加利息+管理费</choice>
-<choice>LIBOR+附加利息+管理费+代理费</choice>
-<choice>LIBOR+附加利息+管理费+代理费+承担费</choice>
-<choice>LIBOR+附加利息+管理费+代理费+承担费+律师费和通讯费等杂费</choice>
+<question title="8.国际商业银行贷款的利息及费用包括(2009.1)" answer="ＬIBOR+附加利息+管理费+代理费+承担费+律师费和通讯费等杂费" note="">
+<choice>ＬIBOR+附加利息+管理费</choice>
+<choice>ＬIBOR+附加利息+管理费+代理费</choice>
+<choice>ＬIBOR+附加利息+管理费+代理费+承担费</choice>
+<choice>ＬIBOR+附加利息+管理费+代理费+承担费+律师费和通讯费等杂费</choice>
 </question>
 <question title="12.在国际租赁业务中，以该租赁设备的法定耐用年限为标准衡量的租期称为(2009.10)" answer="相对长度" note="">
 <choice>自然长度</choice>

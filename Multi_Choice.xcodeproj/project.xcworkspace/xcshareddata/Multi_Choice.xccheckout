@@ -10,6 +10,8 @@
 	<string>Multi_Choice</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>047174916448DD9C1B8E93F1AFA7187F6DE72A5F</key>
+		<string>github.com:lujianfeiccie/iOS_multi_choice_international_finance.git</string>
 		<key>3D31917B463666788ABC0696590940196AC64D8A</key>
 		<string>https://github.com/lujianfeiccie/iOS_multi_choice_english.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>Multi_Choice.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3D31917B463666788ABC0696590940196AC64D8A</key>
+		<key>047174916448DD9C1B8E93F1AFA7187F6DE72A5F</key>
 		<string>../..</string>
+		<key>3D31917B463666788ABC0696590940196AC64D8A</key>
+		<string>../../../iOS_multi_choice_english</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/lujianfeiccie/iOS_multi_choice_english.git</string>
+	<string>github.com:lujianfeiccie/iOS_multi_choice_international_finance.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3D31917B463666788ABC0696590940196AC64D8A</string>
+	<string>047174916448DD9C1B8E93F1AFA7187F6DE72A5F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>3D31917B463666788ABC0696590940196AC64D8A</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iOS_multi_choice_english</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>047174916448DD9C1B8E93F1AFA7187F6DE72A5F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_multi_choice_international_finance</string>
 		</dict>
 	</array>
 </dict>

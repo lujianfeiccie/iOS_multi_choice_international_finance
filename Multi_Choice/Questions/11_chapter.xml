@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-<question title="4. 2004年12月31日IMF的187个成员国选择有管理的浮动汇率制的国家占(2009.1)" answer="27.4％" note="">
-<choice>3.7％</choice>
-<choice>18.7％</choice>
-<choice>21.9％</choice>
-<choice>27.4％</choice>
+<question title="4. 2004年12月31日IMF的187个成员国选择有管理的浮动汇率制的国家占(2009.1)" answer="２7.4％" note="">
+<choice>３.7％</choice>
+<choice>１8.7％</choice>
+<choice>２1.9％</choice>
+<choice>２7.4％</choice>
 </question>
 <question title="19.引起国际收支持久性失衡的因素是(2010.1)" answer="经济结构" note="">
 <choice>国民收入</choice>
@@ -42,16 +42,16 @@
 <choice>右移</choice>
 <choice>左移</choice>
 </question>
-<question title="20.若资本流动的利率弹性大于货币需求的利率弹性，则(2010.1)" answer="LM曲线比BP曲线更加陡峭" note="">
-<choice>LM曲线比BP曲线更加平坦</choice>
-<choice>LM曲线比BP曲线更加陡峭</choice>
-<choice>LM曲线比IS曲线更加平坦</choice>
-<choice>LM曲线与BP曲线的斜率相同</choice>
+<question title="20.若资本流动的利率弹性大于货币需求的利率弹性，则(2010.1)" answer="ＬＭ曲线比BP曲线更加陡峭" note="">
+<choice>ＬＭ曲线比BP曲线更加平坦</choice>
+<choice>ＬＭ曲线比BP曲线更加陡峭</choice>
+<choice>ＬＭ曲线比IS曲线更加平坦</choice>
+<choice>ＬＭ曲线与BP曲线的斜率相同</choice>
 </question>
-<question title="19.根据IS—LM—BP模型，在浮动汇率制下，扩张性货币政策会引起(2011.1)" answer="BP曲线和IS曲线同时右移" note="">
-<choice>BP曲线和IS曲线同时左移</choice>
-<choice>BP曲线和IS曲线同时右移</choice>
-<choice>BP曲线左移，IS曲线右移</choice>
-<choice>BP曲线右移，IS曲线左移</choice>
+<question title="19.根据IS—LM—BP模型，在浮动汇率制下，扩张性货币政策会引起(2011.1)" answer="ＢＰ曲线和IS曲线同时右移" note="">
+<choice>ＢＰ曲线和IS曲线同时左移</choice>
+<choice>ＢＰ曲线和IS曲线同时右移</choice>
+<choice>ＢＰ曲线左移，IS曲线右移</choice>
+<choice>ＢＰ曲线右移，IS曲线左移</choice>
 </question>
 </root>
